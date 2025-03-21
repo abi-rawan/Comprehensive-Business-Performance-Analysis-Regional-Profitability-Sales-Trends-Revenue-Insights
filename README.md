@@ -1,4 +1,4 @@
-# Comprehensive-Business-Performance-Analysis-Regional-Profitability-Sales-Trends-Revenue-Insights
+# Business-Performance-Insights-Regional-Profitability-Sales-Trends-Revenue-Growth
 This Power BI project provides an in-depth analysis of regional profitability, sales trends, and revenue insights to support data-driven decision-making. By leveraging interactive dashboards, the report uncovers key business patterns, helping optimize marketing strategies, improve sales performance, and drive profitability.
 🔍 Key Insights
 
